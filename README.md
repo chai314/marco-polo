@@ -10,6 +10,8 @@
 
 ## Week 4: Normal Distribution
 
+## Week 5: Binormal Distribution
+
 winget install --source winget --exact --id JohnMacFarlane.Pandoc
 
 Add to metadata:
