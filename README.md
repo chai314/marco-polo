@@ -8,19 +8,21 @@
 
 ## Week 3: Acceptance Rejection
 
+## Week 4: Normal Distribution
+
 winget install --source winget --exact --id JohnMacFarlane.Pandoc
 
 Add to metadata:
 
-"title": "Monte Carlo Lab Submission",
+    "title": "Monte Carlo Lab Submission",
 
-    "authors": [
+        "authors": [
 
-        { "name": "Chaitanya Chhabra"  },
+            { "name": "Chaitanya Chhabra"  },
         
-        { "name": "220123012"  }
+            { "name": "220123012"  }
 
-   ]
+        ]
 
 Run:
 
