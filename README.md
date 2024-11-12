@@ -2,6 +2,12 @@
 
 <p align="right">Winter Semester 2024.</p>
 
+<h3><p align="center">
+When the
+<br><img src="img/glcg.png"/><br>
+the GLCG
+</p></h3>
+
 ## Week 1: Skip (1% chalta hai)
 
 ## Week 2: Inverse Transforms
@@ -12,20 +18,34 @@
 
 ## Week 5: Binormal Distribution
 
-winget install --source winget --exact --id JohnMacFarlane.Pandoc
+## Week 6: Confidence Intervals
 
-Add to metadata:
+## Week 7: Variance Reduction: Antithetic
 
-    "title": "Monte Carlo Lab Submission",
+## Week 8: Variance Reduction: Control Variable, Conditional Method, Stratification 
 
-        "authors": [
+## Week 9: Brownian Recursions
 
-            { "name": "Chaitanya Chhabra"  },
-        
-            { "name": "220123012"  }
+## Week 10: Real Stock Prediction, Jump Process Recursion
 
-        ]
+## Week 11: Quasi Monte Carlo: Van der Carput
 
-Run:
+# How to not panic running SSH for the first time:
 
-python -m jupyter nbconvert 220123012.ipynb --to pdf
+### 1. Install Bitvise SSH
+![](img/image.png)
+
+### 2. Tamper with these fields
+![](img/image-1.png)
+
+### 3. Hit login.
+![](img/image-2.png)
+
+Password was `btech22` back in my day. Wonder what yours could be.
+
+### 4. SFTP
+![](img/image-3.png)
+
+### 5. ???
+
+### 6. Profit.
